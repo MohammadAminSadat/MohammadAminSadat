@@ -1,57 +1,32 @@
-# Hi, I'm Mohammad Amin 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mohammad Amin
+======================================================================================================================================
 
-**ADAS Engineer | C/C++ [Embedded] Software Engineer | Control Engineer**
+ADAS Engineer | C/C++ \[Embedded\] Software Engineer | Control Engineer
+-----------------------------------------------------------------------
 
-I'm a Mechatronics Engineer working at the intersection of **automotive software, embedded systems, control, and machine learning**.
+Hey, I'm Mohammad Amin — a Mechatronics Engineer with an MSc and a genuine obsession with making things move, think, and decide on their own. My work sits at the crossroads of control systems, robotics, and AI, with a particular passion for self-driving cars. There's something fascinating about the challenge of teaching a machine to navigate the world safely and autonomously — it's the kind of problem I could spend a lifetime on, from the algorithms down to the hardware they run on.
 
-My main interests are **Modern C++, embedded systems, automotive software, ADAS, autonomous driving, robotics, and performance-oriented software**.
+Outside of engineering, I play electric guitar, have a soft spot for rock and metal, and hold a 3rd dan black belt in karate (yes, I coach and referee too). I share my space with Ash, my kitten, who has strong opinions about my keyboard and my deadlines.
 
-If you like to know me more or contacting me visit my [personal website](mohammadaminsadat.github.io). 
+This site is where I share the projects I'm building, the ideas I'm exploring, and the occasional thought worth putting into words.
 
-### 🛠️ Technical Interests
+* 🖥️  See my portfolio at [Personal Website](http://Mohammadaminsadat.github.io)
+* ✉️  You can contact me at [s.mohammad.amin.sadat@gmail.com](mailto:s.mohammad.amin.sadat@gmail.com)
+* 🚀  I'm currently working on [Trading Engine in c++20](http://github.com/MohammadAminSadat/trading_bot)
+* 🧠  I'm currently learning High-performance C++
+* 👥  I'm looking to collaborate on Embedded Systems, Control Engineering, and AI projects
 
-**Languages:** C++ · Python · C · MATLAB/Simulink · Rust
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored-dark.svg" alt="Rust" title="Rust" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" alt="Dart" title="Dart" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" /></a><a href="https://www.yoctoproject.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/yocto-colored.svg" alt="Yocto Project" title="Yocto Project" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fedora-colored.svg" alt="Fedora" title="Fedora" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a>
+</p>
 
-**Software:** CMake · ROS · Docker
+### Socials
 
-**Automotive:** ADAS · CAN/CAN-FD · XCP · AUTOSAR
+<p align="left"> <a href="https://www.github.com/MohammadAminSadat" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/MohammadAminSadat" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.linkedin.com/in/MohammadAminSadat" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+### Badges
 
-**Control & AI:** MPC · Reinforcement Learning · Deep Learning · Trajectory Planning
+<b>My GitHub Stats</b>
 
-**Systems:** Linux · Embedded Systems 
+<a href="http://www.github.com/MohammadAminSadat"><img src="https://github-readme-stats.vercel.app/api?username=MohammadAminSadat&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MohammadAminSadat's GitHub stats" /></a>
 
-### 🎓 Background
-
-**M.Sc. Mechatronics Engineering — Shahid Beheshti University**
-Research in autonomous driving, MPC and reinforcement learning
-
-**B.Sc. Mechanical Engineering — Shiraz University**
-
-Currently, I'm deepening my expertise in **modern C++, software architecture, systems programming, and embedded/automotive software**.
-
-### 🎯 Goals
-
-I'm working toward becoming a strong **systems/software engineer** capable of designing reliable software for complex real-world systems.
-
-I'm **open to engineering positions, interesting projects, research opportunities, and collaborations**, particularly in:
-
-**C++ · Embedded Systems · Automotive · ADAS · Autonomous Driving · Robotics · Systems Programming**
-
-📫 Feel free to reach out — I'm always happy to discuss interesting ideas and opportunities.
-
-[You can find my contact here.](https://mohammadaminsadat.github.io/contact.html)
-
-<!--
-**MohammadAminSadat/MohammadAminSadat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/MohammadAminSadat" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAminSadat&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
