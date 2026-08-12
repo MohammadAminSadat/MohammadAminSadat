@@ -8,7 +8,7 @@ Safety-critical software for autonomous vehicles — from braking logic down to 
 
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Available%20Now-2ea44f?style=flat-square)](mailto:s.mohammad.amin.sadat@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-mohammadaminsadat.github.io-0D1B2A?style=flat-square&logo=googlechrome&logoColor=0ABFBC)](https://mohammadaminsadat.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1B2A?style=flat-square&logo=linkedin&logoColor=0ABFBC)](https://www.linkedin.com/in/mohammad-amin-sadat-341552196)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1B2A?style=flat-square&logo=linkedin&logoColor=0ABFBC)](linkedin.com/in/mohammadaminsadat)
 [![Email](https://img.shields.io/badge/Email-Contact-0D1B2A?style=flat-square&logo=gmail&logoColor=0ABFBC)](mailto:s.mohammad.amin.sadat@gmail.com)
 
 </div>
@@ -57,5 +57,5 @@ Background is Mechatronics (MSc) and Mechanical Engineering (BSc). Over time tha
 ---
 
 <div align="center">
-<sub>Open to full-time ADAS / embedded / autonomous systems roles — let's talk. Reach out via <a href="mailto:s.mohammad.amin.sadat@gmail.com">email</a> or <a href="https://www.linkedin.com/in/mohammad-amin-sadat-341552196">LinkedIn</a>.</sub>
+<sub>Open to full-time ADAS / embedded / autonomous systems roles — let's talk. Reach out via <a href="mailto:s.mohammad.amin.sadat@gmail.com">email</a> or <a href="linkedin.com/in/mohammadaminsadat">LinkedIn</a>.</sub>
 </div>
