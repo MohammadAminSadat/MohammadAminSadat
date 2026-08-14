@@ -45,7 +45,8 @@ Background is Mechatronics (MSc) and Mechanical Engineering (BSc). Over time tha
 
 ## Featured
 
-- 🌐 **[Portfolio](https://mohammadaminsadat.github.io)** — projects, writing, and my CV, hand-built in vanilla HTML/CSS/JS
+- 🌐 **[Persnal Website](https://mohammadaminsadat.github.io)** — projects, writing, and my CV, hand-built in vanilla HTML/CSS/JS
+- ✍️ **[Blog](https://mohammadaminsadat.github.io/blog.html)** — projects, writing, and my CV, hand-built in vanilla HTML/CSS/JS
 - 📄 **[CV](https://github.com/MohammadAminSadat/CV)** — LaTeX source
 - 📈 **[Trading Engine](https://github.com/MohammadAminSadat/trading_bot)** — latest project, a trading engine built in C++20
 - 🧠 **[fuzzy-logic-rs](https://github.com/MohammadAminSadat/fuzzy-logic-rs)** — lightweight fuzzy logic library in Rust (Mamdani & TSK inference)
